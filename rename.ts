@@ -47,8 +47,10 @@ const main = async () => {
         (e) => e.episode === Number(episode)
       )?.title;
       const newTitle = `Episode ${episode} - ${episodeTitle}.${extension}`;
-      console.log({ currentTitle: path.join(seasonDirectory, currentTitle), newTitle: path.join(seasonDirectory, newTitle) });
-      // await fs.rename(currentTitle, newTItle)
+      const currentFullpath = path.join(seasonDirectory, currentTitle);
+      const newFullpath = path.join(seasonDirectory, newTitle);
+      console.log({ currentFullpath, newFullpath });
+      // await fs.rename(currentFullpath, newFullpath);
     });
   });
 };
