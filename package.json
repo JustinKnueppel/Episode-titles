@@ -1,0 +1,22 @@
+{
+  "name": "episode-titles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinKnueppel/Episode-titles.git"
+  },
+  "author": "Justin Knueppel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinKnueppel/Episode-titles/issues"
+  },
+  "homepage": "https://github.com/JustinKnueppel/Episode-titles#readme",
+  "dependencies": {
+    "@types/node": "^14.10.1"
+  }
+}
