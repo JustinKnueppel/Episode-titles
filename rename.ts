@@ -1,7 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
 
-const ROOT_DIR="/home/justink/Public/Videos/TV/Modern Family"
+const ROOT_DIR = "/home/justink/Public/Videos/TV/How I Met Your Mother";
 
 interface Episode {
   episode: Number;
@@ -35,10 +35,11 @@ const getEpisodeAndExtension = (
 };
 
 const main = async () => {
-  const showData = await getShowData("modern_family.json");
+  const showData = await getShowData("himym.json");
   process.chdir(ROOT_DIR);
   showData.forEach(async (season) => {
-    const seasonString = season.season < 10 ? `0${season.season}` : season.season.toString();
+    const seasonString =
+      season.season < 10 ? `0${season.season}` : season.season.toString();
     const seasonDirectory = `Season ${seasonString}`;
     const currentTitles = await fs.readdir(seasonDirectory);
     currentTitles.forEach(async (currentTitle) => {

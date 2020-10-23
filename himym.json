@@ -1,0 +1,879 @@
+[
+  {
+    "season": 1,
+    "episodes": [
+      {
+        "title": "Pilot",
+        "episode": 1
+      },
+      {
+        "title": "Purple Giraffe",
+        "episode": 2
+      },
+      {
+        "title": "Sweet Taste of Liberty",
+        "episode": 3
+      },
+      {
+        "title": "Return of the Shirt",
+        "episode": 4
+      },
+      {
+        "title": "Okay Awesome",
+        "episode": 5
+      },
+      {
+        "title": "Slutty Pumpkin",
+        "episode": 6
+      },
+      {
+        "title": "Matchmaker",
+        "episode": 7
+      },
+      {
+        "title": "The Duel",
+        "episode": 8
+      },
+      {
+        "title": "Belly Full of Turkey",
+        "episode": 9
+      },
+      {
+        "title": "The Pineapple Incident",
+        "episode": 10
+      },
+      {
+        "title": "The Limo",
+        "episode": 11
+      },
+      {
+        "title": "The Wedding",
+        "episode": 12
+      },
+      {
+        "title": "Drumroll, Please",
+        "episode": 13
+      },
+      {
+        "title": "Zip, Zip, Zip",
+        "episode": 14
+      },
+      {
+        "title": "Game Night",
+        "episode": 15
+      },
+      {
+        "title": "Cupcake",
+        "episode": 16
+      },
+      {
+        "title": "Life Among the Gorillas",
+        "episode": 17
+      },
+      {
+        "title": "Nothing Good Happens After 2 A.M.",
+        "episode": 18
+      },
+      {
+        "title": "Mary the Paralegal",
+        "episode": 19
+      },
+      {
+        "title": "Best Prom Ever",
+        "episode": 20
+      },
+      {
+        "title": "Milk",
+        "episode": 21
+      },
+      {
+        "title": "Come On",
+        "episode": 22
+      }
+    ]
+  },
+  {
+    "season": 2,
+    "episodes": [
+      {
+        "title": "Where Were We?",
+        "episode": 1
+      },
+      {
+        "title": "The Scorpion and the Toad",
+        "episode": 2
+      },
+      {
+        "title": "Brunch",
+        "episode": 3
+      },
+      {
+        "title": "Ted Mosby, Architect",
+        "episode": 4
+      },
+      {
+        "title": "World's Greatest Couple",
+        "episode": 5
+      },
+      {
+        "title": "Aldrin Justice",
+        "episode": 6
+      },
+      {
+        "title": "Swarley",
+        "episode": 7
+      },
+      {
+        "title": "Atlantic City",
+        "episode": 8
+      },
+      {
+        "title": "Slap Bet",
+        "episode": 9
+      },
+      {
+        "title": "Single Stamina",
+        "episode": 10
+      },
+      {
+        "title": "How Lily Stole Christmas",
+        "episode": 11
+      },
+      {
+        "title": "First Time in New York",
+        "episode": 12
+      },
+      {
+        "title": "Columns",
+        "episode": 13
+      },
+      {
+        "title": "Monday Night Football",
+        "episode": 14
+      },
+      {
+        "title": "Lucky Penny",
+        "episode": 15
+      },
+      {
+        "title": "Stuff",
+        "episode": 16
+      },
+      {
+        "title": "Arrivederci, Fiero",
+        "episode": 17
+      },
+      {
+        "title": "Moving Day",
+        "episode": 18
+      },
+      {
+        "title": "Bachelor Party",
+        "episode": 19
+      },
+      {
+        "title": "Showdown",
+        "episode": 20
+      },
+      {
+        "title": "Something Borrowed",
+        "episode": 21
+      },
+      {
+        "title": "Something Blue",
+        "episode": 22
+      }
+    ]
+  },
+  {
+    "season": 3,
+    "episodes": [
+      {
+        "title": "Wait for It",
+        "episode": 1
+      },
+      {
+        "title": "We're Not from Here",
+        "episode": 2
+      },
+      {
+        "title": "Third Wheel",
+        "episode": 3
+      },
+      {
+        "title": "Little Boys",
+        "episode": 4
+      },
+      {
+        "title": "How I Met Everyone Else",
+        "episode": 5
+      },
+      {
+        "title": "I'm Not That Guy",
+        "episode": 6
+      },
+      {
+        "title": "Dowisetrepla",
+        "episode": 7
+      },
+      {
+        "title": "Spoiler Alert",
+        "episode": 8
+      },
+      {
+        "title": "Slapsgiving",
+        "episode": 9
+      },
+      {
+        "title": "The Yips",
+        "episode": 10
+      },
+      {
+        "title": "The Platinum Rule",
+        "episode": 11
+      },
+      {
+        "title": "No Tomorrow",
+        "episode": 12
+      },
+      {
+        "title": "Ten Sessions",
+        "episode": 13
+      },
+      {
+        "title": "The Bracket",
+        "episode": 14
+      },
+      {
+        "title": "The Chain of Screaming",
+        "episode": 15
+      },
+      {
+        "title": "Sandcastles in the Sand",
+        "episode": 16
+      },
+      {
+        "title": "The Goat",
+        "episode": 17
+      },
+      {
+        "title": "Rebound Bro",
+        "episode": 18
+      },
+      {
+        "title": "Everything Must Go",
+        "episode": 19
+      },
+      {
+        "title": "Miracles",
+        "episode": 20
+      }
+    ]
+  },
+  {
+    "season": 4,
+    "episodes": [
+      {
+        "title": "Do I Know You?",
+        "episode": 1
+      },
+      {
+        "title": "The Best Burger in New York",
+        "episode": 2
+      },
+      {
+        "title": "I Heart NJ",
+        "episode": 3
+      },
+      {
+        "title": "Intervention",
+        "episode": 4
+      },
+      {
+        "title": "Shelter Island",
+        "episode": 5
+      },
+      {
+        "title": "Happily Ever After",
+        "episode": 6
+      },
+      {
+        "title": "Not a Father's Day",
+        "episode": 7
+      },
+      {
+        "title": "Woooo!",
+        "episode": 8
+      },
+      {
+        "title": "The Naked Man",
+        "episode": 9
+      },
+      {
+        "title": "The Fight",
+        "episode": 10
+      },
+      {
+        "title": "Little Minnesota",
+        "episode": 11
+      },
+      {
+        "title": "Benefits",
+        "episode": 12
+      },
+      {
+        "title": "Three Days of Snow",
+        "episode": 13
+      },
+      {
+        "title": "The Possimpible",
+        "episode": 14
+      },
+      {
+        "title": "The Stinsons",
+        "episode": 15
+      },
+      {
+        "title": "Sorry, Bro",
+        "episode": 16
+      },
+      {
+        "title": "The Front Porch",
+        "episode": 17
+      },
+      {
+        "title": "Old King Clancy",
+        "episode": 18
+      },
+      {
+        "title": "Murtaugh",
+        "episode": 19
+      },
+      {
+        "title": "Mosbius Designs",
+        "episode": 20
+      },
+      {
+        "title": "The Three Days Rule",
+        "episode": 21
+      },
+      {
+        "title": "Right Place, Right Time",
+        "episode": 22
+      },
+      {
+        "title": "As Fast as She Can",
+        "episode": 23
+      },
+      {
+        "title": "The Leap",
+        "episode": 24
+      }
+    ]
+  },
+  {
+    "season": 5,
+    "episodes": [
+      {
+        "title": "Definitions",
+        "episode": 1
+      },
+      {
+        "title": "Double Date",
+        "episode": 2
+      },
+      {
+        "title": "Robin 101",
+        "episode": 3
+      },
+      {
+        "title": "The Sexless Innkeeper",
+        "episode": 4
+      },
+      {
+        "title": "Duel Citizenship",
+        "episode": 5
+      },
+      {
+        "title": "Bagpipes",
+        "episode": 6
+      },
+      {
+        "title": "The Rough Patch",
+        "episode": 7
+      },
+      {
+        "title": "The Playbook",
+        "episode": 8
+      },
+      {
+        "title": "Slapsgiving 2: Revenge of the Slap",
+        "episode": 9
+      },
+      {
+        "title": "The Window",
+        "episode": 10
+      },
+      {
+        "title": "Last Cigarette Ever",
+        "episode": 11
+      },
+      {
+        "title": "Girls Versus Suits",
+        "episode": 12
+      },
+      {
+        "title": "Jenkins",
+        "episode": 13
+      },
+      {
+        "title": "Perfect Week",
+        "episode": 14
+      },
+      {
+        "title": "Rabbit or Duck",
+        "episode": 15
+      },
+      {
+        "title": "Hooked",
+        "episode": 16
+      },
+      {
+        "title": "Of Course",
+        "episode": 17
+      },
+      {
+        "title": "Say Cheese",
+        "episode": 18
+      },
+      {
+        "title": "Zoo or False",
+        "episode": 19
+      },
+      {
+        "title": "Home Wreckers",
+        "episode": 20
+      },
+      {
+        "title": "Twin Beds",
+        "episode": 21
+      },
+      {
+        "title": "Robots Versus Wrestlers",
+        "episode": 22
+      },
+      {
+        "title": "The Wedding Bride",
+        "episode": 23
+      },
+      {
+        "title": "Doppelgangers",
+        "episode": 24
+      }
+    ]
+  },
+  {
+    "season": 6,
+    "episodes": [
+      {
+        "title": "Big Days",
+        "episode": 1
+      },
+      {
+        "title": "Cleaning House",
+        "episode": 2
+      },
+      {
+        "title": "Unfinished",
+        "episode": 3
+      },
+      {
+        "title": "Subway Wars",
+        "episode": 4
+      },
+      {
+        "title": "Architect of Destruction",
+        "episode": 5
+      },
+      {
+        "title": "Baby Talk",
+        "episode": 6
+      },
+      {
+        "title": "Canning Randy",
+        "episode": 7
+      },
+      {
+        "title": "Natural History",
+        "episode": 8
+      },
+      {
+        "title": "Glitter",
+        "episode": 9
+      },
+      {
+        "title": "Blitzgiving",
+        "episode": 10
+      },
+      {
+        "title": "The Mermaid Theory",
+        "episode": 11
+      },
+      {
+        "title": "False Positive",
+        "episode": 12
+      },
+      {
+        "title": "Bad News",
+        "episode": 13
+      },
+      {
+        "title": "Last Words",
+        "episode": 14
+      },
+      {
+        "title": "Oh Honey",
+        "episode": 15
+      },
+      {
+        "title": "Desperation Day",
+        "episode": 16
+      },
+      {
+        "title": "Garbage Island",
+        "episode": 17
+      },
+      {
+        "title": "A Change of Heart",
+        "episode": 18
+      },
+      {
+        "title": "Legendaddy",
+        "episode": 19
+      },
+      {
+        "title": "The Exploding Meatball Sub",
+        "episode": 20
+      },
+      {
+        "title": "Hopeless",
+        "episode": 21
+      },
+      {
+        "title": "The Perfect Cocktail",
+        "episode": 22
+      },
+      {
+        "title": "Landmarks",
+        "episode": 23
+      },
+      {
+        "title": "Challenge Accepted",
+        "episode": 24
+      }
+    ]
+  },
+  {
+    "season": 7,
+    "episodes": [
+      {
+        "title": "The Best Man",
+        "episode": 1
+      },
+      {
+        "title": "The Naked Truth",
+        "episode": 2
+      },
+      {
+        "title": "Ducky Tie",
+        "episode": 3
+      },
+      {
+        "title": "The Stinson Missile Crisis",
+        "episode": 4
+      },
+      {
+        "title": "Field Trip",
+        "episode": 5
+      },
+      {
+        "title": "Mystery vs. History",
+        "episode": 6
+      },
+      {
+        "title": "Noretta",
+        "episode": 7
+      },
+      {
+        "title": "The Slutty Pumpkin Returns",
+        "episode": 8
+      },
+      {
+        "title": "Disaster Averted",
+        "episode": 9
+      },
+      {
+        "title": "Tick Tick Tick…",
+        "episode": 10
+      },
+      {
+        "title": "The Rebound Girl",
+        "episode": 11
+      },
+      {
+        "title": "Symphony of Illumination",
+        "episode": 12
+      },
+      {
+        "title": "Tailgate",
+        "episode": 13
+      },
+      {
+        "title": "46 Minutes",
+        "episode": 14
+      },
+      {
+        "title": "The Burning Beekeeper",
+        "episode": 15
+      },
+      {
+        "title": "The Drunk Train",
+        "episode": 16
+      },
+      {
+        "title": "No Pressure",
+        "episode": 17
+      },
+      {
+        "title": "Karma",
+        "episode": 18
+      },
+      {
+        "title": "The Broath",
+        "episode": 19
+      },
+      {
+        "title": "Trilogy Time",
+        "episode": 20
+      },
+      {
+        "title": "Now We're Even",
+        "episode": 21
+      },
+      {
+        "title": "Good Crazy",
+        "episode": 22
+      },
+      {
+        "title": "The Magician's Code Part One",
+        "episode": 23
+      },
+      {
+        "title": "The Magician's Code Part Two",
+        "episode": 24
+      }
+    ]
+  },
+  {
+    "season": 8,
+    "episodes": [
+      {
+        "title": "Farhampton",
+        "episode": 1
+      },
+      {
+        "title": "The Pre-Nup",
+        "episode": 2
+      },
+      {
+        "title": "Nannies",
+        "episode": 3
+      },
+      {
+        "title": "Who Wants to Be a Godparent?",
+        "episode": 4
+      },
+      {
+        "title": "The Autumn of Break-Ups",
+        "episode": 5
+      },
+      {
+        "title": "Splitsville",
+        "episode": 6
+      },
+      {
+        "title": "The Stamp Tramp",
+        "episode": 7
+      },
+      {
+        "title": "Twelve Horny Women",
+        "episode": 8
+      },
+      {
+        "title": "Lobster Crawl",
+        "episode": 9
+      },
+      {
+        "title": "The Over-Correction",
+        "episode": 10
+      },
+      {
+        "title": "The Final Page Part One",
+        "episode": 11
+      },
+      {
+        "title": "The Final Page Part Two",
+        "episode": 12
+      },
+      {
+        "title": "Band or DJ?",
+        "episode": 13
+      },
+      {
+        "title": "Ring Up!",
+        "episode": 14
+      },
+      {
+        "title": "P.S. I Love You",
+        "episode": 15
+      },
+      {
+        "title": "Bad Crazy",
+        "episode": 16
+      },
+      {
+        "title": "The Ashtray",
+        "episode": 17
+      },
+      {
+        "title": "Weekend at Barney's",
+        "episode": 18
+      },
+      {
+        "title": "The Fortress",
+        "episode": 19
+      },
+      {
+        "title": "The Time Travelers",
+        "episode": 20
+      },
+      {
+        "title": "Romeward Bound",
+        "episode": 21
+      },
+      {
+        "title": "The Bro Mitzvah",
+        "episode": 22
+      },
+      {
+        "title": "Something Old",
+        "episode": 23
+      },
+      {
+        "title": "Something New",
+        "episode": 24
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "episodes": [
+      {
+        "title": "The Locket",
+        "episode": 1
+      },
+      {
+        "title": "Coming Back",
+        "episode": 2
+      },
+      {
+        "title": "Last Time in New York",
+        "episode": 3
+      },
+      {
+        "title": "The Broken Code",
+        "episode": 4
+      },
+      {
+        "title": "The Poker Game",
+        "episode": 5
+      },
+      {
+        "title": "Knight Vision",
+        "episode": 6
+      },
+      {
+        "title": "No Questions Asked",
+        "episode": 7
+      },
+      {
+        "title": "The Lighthouse",
+        "episode": 8
+      },
+      {
+        "title": "Platonish",
+        "episode": 9
+      },
+      {
+        "title": "Mom and Dad",
+        "episode": 10
+      },
+      {
+        "title": "Bedtime Stories",
+        "episode": 11
+      },
+      {
+        "title": "The Rehearsal Dinner",
+        "episode": 12
+      },
+      {
+        "title": "Bass Player Wanted",
+        "episode": 13
+      },
+      {
+        "title": "Slapsgiving 3: Slappointment in Slapmarra",
+        "episode": 14
+      },
+      {
+        "title": "Unpause",
+        "episode": 15
+      },
+      {
+        "title": "How Your Mother Met Me",
+        "episode": 16
+      },
+      {
+        "title": "Sunrise",
+        "episode": 17
+      },
+      {
+        "title": "Rally",
+        "episode": 18
+      },
+      {
+        "title": "Vesuvius",
+        "episode": 19
+      },
+      {
+        "title": "Daisy",
+        "episode": 20
+      },
+      {
+        "title": "Gary Blauman",
+        "episode": 21
+      },
+      {
+        "title": "The End of the Aisle",
+        "episode": 22
+      },
+      {
+        "title": "Last Forever Part One",
+        "episode": 23
+      },
+      {
+        "title": "Last Forever Part Two",
+        "episode": 24
+      }
+    ]
+  }
+]
