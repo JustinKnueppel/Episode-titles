@@ -1,0 +1,230 @@
+[
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Welcome to Republic City"
+        },
+        {
+          "episode": 2,
+          "title": "A Leaf in the Wind"
+        },
+        {
+          "episode": 3,
+          "title": "The Revelation"
+        },
+        {
+          "episode": 4,
+          "title": "The Voice in the Night"
+        },
+        {
+          "episode": 5,
+          "title": "The Spirit of Competition"
+        },
+        {
+          "episode": 6,
+          "title": "And the Winner Is..."
+        },
+        {
+          "episode": 7,
+          "title": "The Aftermath"
+        },
+        {
+          "episode": 8,
+          "title": "When Extremes Meet"
+        },
+        {
+          "episode": 9,
+          "title": "Out of the Past"
+        },
+        {
+          "episode": 10,
+          "title": "Turning the Tides"
+        },
+        {
+          "episode": 11,
+          "title": "Skeletons in the Closet"
+        },
+        {
+          "episode": 12,
+          "title": "Endgame"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Rebel Spirit"
+        },
+        {
+          "episode": 2,
+          "title": "The Southern Lights"
+        },
+        {
+          "episode": 3,
+          "title": "Civil Wars, Part 1"
+        },
+        {
+          "episode": 4,
+          "title": "Civil Wars, Part 2"
+        },
+        {
+          "episode": 5,
+          "title": "Peacekeepers"
+        },
+        {
+          "episode": 6,
+          "title": "The Sting"
+        },
+        {
+          "episode": 7,
+          "title": "Beginnings, Part 1"
+        },
+        {
+          "episode": 8,
+          "title": "Beginnings, Part 2"
+        },
+        {
+          "episode": 9,
+          "title": "The Guide"
+        },
+        {
+          "episode": 10,
+          "title": "A New Spiritual Age"
+        },
+        {
+          "episode": 11,
+          "title": "Night of a Thousand Stars"
+        },
+        {
+          "episode": 12,
+          "title": "Harmonic Convergence"
+        },
+        {
+          "episode": 13,
+          "title": "Darkness Falls"
+        },
+        {
+          "episode": 14,
+          "title": "Light in the Dark"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "A Breath of Fresh Air"
+        },
+        {
+          "episode": 2,
+          "title": "Rebirth"
+        },
+        {
+          "episode": 3,
+          "title": "The Earth Queen"
+        },
+        {
+          "episode": 4,
+          "title": "In Harm's Way"
+        },
+        {
+          "episode": 5,
+          "title": "The Metal Clan"
+        },
+        {
+          "episode": 6,
+          "title": "Old Wounds"
+        },
+        {
+          "episode": 7,
+          "title": "Original Airbenders"
+        },
+        {
+          "episode": 8,
+          "title": "The Terror Within"
+        },
+        {
+          "episode": 9,
+          "title": "The Stakeout"
+        },
+        {
+          "episode": 10,
+          "title": "Long Live the Queen"
+        },
+        {
+          "episode": 11,
+          "title": "The Ultimatum"
+        },
+        {
+          "episode": 12,
+          "title": "Enter the Void"
+        },
+        {
+          "episode": 13,
+          "title": "Venom of the Red Lotus"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "After All These Years"
+        },
+        {
+          "episode": 2,
+          "title": "Korra Alone"
+        },
+        {
+          "episode": 3,
+          "title": "The Coronation"
+        },
+        {
+          "episode": 4,
+          "title": "The Calling"
+        },
+        {
+          "episode": 5,
+          "title": "Enemy at the Gates"
+        },
+        {
+          "episode": 6,
+          "title": "The Battle of Zaofu"
+        },
+        {
+          "episode": 7,
+          "title": "Reunion"
+        },
+        {
+          "episode": 8,
+          "title": "Remembrances"
+        },
+        {
+          "episode": 9,
+          "title": "Beyond the Wilds"
+        },
+        {
+          "episode": 10,
+          "title": "Operation Beifong"
+        },
+        {
+          "episode": 11,
+          "title": "Kuvira's Gambit"
+        },
+        {
+          "episode": 12,
+          "title": "Day of the Colossus"
+        },
+        {
+          "episode": 13,
+          "title": "The Last Stand"
+        }
+      ]
+    }
+  ]
