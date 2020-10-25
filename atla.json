@@ -1,0 +1,261 @@
+[
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Boy in the Iceberg"
+        },
+        {
+          "episode": 2,
+          "title": "The Avatar Returns"
+        },
+        {
+          "episode": 3,
+          "title": "The Southern Air Temple"
+        },
+        {
+          "episode": 4,
+          "title": "The Warriors of Kyoshi"
+        },
+        {
+          "episode": 5,
+          "title": "The King of Omashu"
+        },
+        {
+          "episode": 6,
+          "title": "Imprisoned"
+        },
+        {
+          "episode": 7,
+          "title": "Winter Solstice, Part 1 - The Spirit World"
+        },
+        {
+          "episode": 8,
+          "title": "Winter Solstice, Part 2 - Avatar Roku"
+        },
+        {
+          "episode": 9,
+          "title": "The Waterbending Scroll"
+        },
+        {
+          "episode": 10,
+          "title": "Jet"
+        },
+        {
+          "episode": 11,
+          "title": "The Great Divide"
+        },
+        {
+          "episode": 12,
+          "title": "The Storm"
+        },
+        {
+          "episode": 13,
+          "title": "The Blue Spirit"
+        },
+        {
+          "episode": 14,
+          "title": "The Fortuneteller"
+        },
+        {
+          "episode": 15,
+          "title": "Bato of the Water Tribe"
+        },
+        {
+          "episode": 16,
+          "title": "The Deserter"
+        },
+        {
+          "episode": 17,
+          "title": "The Northern Air Temple"
+        },
+        {
+          "episode": 18,
+          "title": "The Waterbending Master"
+        },
+        {
+          "episode": 19,
+          "title": "The Siege of the North Part 1"
+        },
+        {
+          "episode": 20,
+          "title": "The Siege of the North Part 2"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Avatar State"
+        },
+        {
+          "episode": 2,
+          "title": "The Cave of Two Lovers"
+        },
+        {
+          "episode": 3,
+          "title": "Return to Omashu"
+        },
+        {
+          "episode": 4,
+          "title": "The Swamp"
+        },
+        {
+          "episode": 5,
+          "title": "Avatar Day"
+        },
+        {
+          "episode": 6,
+          "title": "The Blind Bandit"
+        },
+        {
+          "episode": 7,
+          "title": "Zuko Alone"
+        },
+        {
+          "episode": 8,
+          "title": "The Chase"
+        },
+        {
+          "episode": 9,
+          "title": "Bitter Work"
+        },
+        {
+          "episode": 10,
+          "title": "The Library"
+        },
+        {
+          "episode": 11,
+          "title": "The Desert"
+        },
+        {
+          "episode": 12,
+          "title": "The Serpent's Pass"
+        },
+        {
+          "episode": 13,
+          "title": "The Drill"
+        },
+        {
+          "episode": 14,
+          "title": "City of Walls and Secrets"
+        },
+        {
+          "episode": 15,
+          "title": "The Tales of Ba Sing Se"
+        },
+        {
+          "episode": 16,
+          "title": "Appa's Lost Days"
+        },
+        {
+          "episode": 17,
+          "title": "Lake Laogai"
+        },
+        {
+          "episode": 18,
+          "title": "The Earth King"
+        },
+        {
+          "episode": 19,
+          "title": "The Guru"
+        },
+        {
+          "episode": 20,
+          "title": "The Crossroads of Destiny"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Awakening"
+        },
+        {
+          "episode": 2,
+          "title": "The Headband"
+        },
+        {
+          "episode": 3,
+          "title": "The Painted Lady"
+        },
+        {
+          "episode": 4,
+          "title": "Sokka's Master"
+        },
+        {
+          "episode": 5,
+          "title": "The Beach"
+        },
+        {
+          "episode": 6,
+          "title": "The Avatar and the Fire Lord"
+        },
+        {
+          "episode": 7,
+          "title": "The Runaway"
+        },
+        {
+          "episode": 8,
+          "title": "The Puppetmaster"
+        },
+        {
+          "episode": 9,
+          "title": "Nightmares and Daydreams"
+        },
+        {
+          "episode": 10,
+          "title": "The Day of Black Sun, Part 1 - The Invasion"
+        },
+        {
+          "episode": 11,
+          "title": "The Day of Black Sun, Part 2 - The Eclipse"
+        },
+        {
+          "episode": 12,
+          "title": "The Western Air Temple"
+        },
+        {
+          "episode": 13,
+          "title": "The Firebending Masters"
+        },
+        {
+          "episode": 14,
+          "title": "The Boiling Rock, Part 1"
+        },
+        {
+          "episode": 15,
+          "title": "The Boiling Rock, Part 2"
+        },
+        {
+          "episode": 16,
+          "title": "The Southern Raiders"
+        },
+        {
+          "episode": 17,
+          "title": "The Ember Island Players"
+        },
+        {
+          "episode": 18,
+          "title": "Sozin's Comet, Part 1 - The Phoenix King"
+        },
+        {
+          "episode": 19,
+          "title": "Sozin's Comet, Part 2 - The Old Masters"
+        },
+        {
+          "episode": 20,
+          "title": "Sozin's Comet, Part 3 - Into the Inferno"
+        },
+        {
+          "episode": 21,
+          "title": "Sozin's Comet, Part 4 - Avatar Aang"
+        }
+      ]
+    }
+  ]
