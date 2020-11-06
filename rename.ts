@@ -1,7 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
 
-const ROOT_DIR = "/home/justin/Shares/Media/Videos/TV/Avatar - The Legend of Korra";
+const ROOT_DIR = "/home/justin/Shares/Media/Videos/TV/The Big Bang Theory";
 
 interface Episode {
   episode: Number;
@@ -35,11 +35,10 @@ const getEpisodeAndExtension = (
 };
 
 const main = async () => {
-  const showData = await getShowData("korra.json");
+  const showData = await getShowData("tbbt.json");
   process.chdir(ROOT_DIR);
   showData.forEach(async (season) => {
-    const seasonString = season.season.toString();
-      // season.season < 10 ? `0${season.season}` : season.season.toString();
+    const seasonString = season.season < 10 ? `0${season.season}` : season.season.toString();
     const seasonDirectory = `Season ${seasonString}`;
     const currentTitles = await fs.readdir(seasonDirectory);
     currentTitles.forEach(async (currentTitle) => {
