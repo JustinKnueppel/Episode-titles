@@ -38,7 +38,7 @@ const main = async () => {
   const showData = await getShowData("tbbt.json");
   process.chdir(ROOT_DIR);
   showData.forEach(async (season) => {
-    const seasonString = season.season < 10 ? `0${season.season}` : season.season.toString();
+    const seasonString = season.season.toString().padStart(2, "0");
     const seasonDirectory = `Season ${seasonString}`;
     const currentTitles = await fs.readdir(seasonDirectory);
     currentTitles.forEach(async (currentTitle) => {
