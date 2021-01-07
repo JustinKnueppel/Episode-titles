@@ -1,10 +1,10 @@
 import { promises as fs } from "fs";
 import path from "path";
 
-const ROOT_DIR = "/home/justin/Shares/Media/Videos/TV/The Big Bang Theory";
+const ROOT_DIR = "/home/justin/Shares/Media/Videos/TV/The Office";
 
 interface Episode {
-  episode: Number;
+  number: Number;
   title: string;
 }
 
@@ -35,16 +35,16 @@ const getEpisodeAndExtension = (
 };
 
 const main = async () => {
-  const showData = await getShowData("tbbt.json");
+  const showData = await getShowData("office.json");
   process.chdir(ROOT_DIR);
   showData.forEach(async (season) => {
-    const seasonString = season.season.toString().padStart(2, "0");
+    const seasonString = season.season.toString().padStart(1, "0");
     const seasonDirectory = `Season ${seasonString}`;
     const currentTitles = await fs.readdir(seasonDirectory);
     currentTitles.forEach(async (currentTitle) => {
       const { episode, extension } = getEpisodeAndExtension(currentTitle);
       const episodeTitle = season.episodes.find(
-        (e) => e.episode === Number(episode)
+        (e) => e.number === Number(episode)
       )?.title;
       const newTitle = `Episode ${episode} - ${episodeTitle}.${extension}`;
       const currentFullpath = path.join(seasonDirectory, currentTitle);
